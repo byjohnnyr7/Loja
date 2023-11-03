@@ -14,4 +14,4 @@ var messageBox = document.querySelector('.js-message');
           e.preventDefault();
           card.classList.remove('active');
       });
-  });
+  });.
